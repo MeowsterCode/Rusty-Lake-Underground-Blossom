@@ -9,4 +9,4 @@ Seeds can be positioned within slots containing small holes. The initial locatio
 游戏规则：
 瓜子可以摆放在有小洞的位置。一只虫子的起始点在左上角的小洞。当瓜子摆放在虫子所在的小洞上时，虫子会沿着瓜子指向的方向从下一个小洞钻出来。如果瓜子指向的方向没有小洞，虫子消失。需要适当摆放瓜子使得虫子最终从画圈的小洞钻出来。
 
-<img src="Elements.jpg" width="470" height="200" alt="Elements"/><img src="Answer.jpg" width="470" height="200" alt="Answer"/><br/>
+<img src="Elements.jpg" width="470" alt="Elements"/><img src="Answer.jpg" width="470" alt="Answer"/><br/>
