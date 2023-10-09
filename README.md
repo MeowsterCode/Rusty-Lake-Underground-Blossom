@@ -2,7 +2,7 @@
 This project is designed to automate the gameplay of a minor level in the "Rust Lake-Underground Blossom" game and generate a solution.
 
 Game Rules:
-Seeds can be positioned within slots containing small holes. The initial location of a single worm is in the small hole at the top left corner. When seeds are placed on the small hole where the flyer is situated, the flyer will burrow out from the next adjacent small hole in the direction indicated by the seed. If there is no small hole in the specified direction of the seed, the worm will vanish. To succeed, you must strategically position the seeds so that the flyer eventually emerges from the small hole marked with a circle.
+Seeds can be positioned within slots containing small holes. The initial location of a single worm is in the small hole at the top left corner. When seeds are placed on the small hole where the flyer is situated, the flyer will burrow out from the next adjacent small hole in the direction indicated by the seed. If there is no small hole in the specified direction of the seed, the worm will vanish. To succeed, you must strategically position the seeds so that the flyer eventually emerges from the small hole marked with circle.
 
 这个项目用来自动玩锈湖-地铁繁花中的一个小关卡并生成答案。
 
